@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "backup": "git push origin master:source"
+    "backup": "git push shivahexo master:source"
   },
   "hexo": {
     "version": "4.1.1"

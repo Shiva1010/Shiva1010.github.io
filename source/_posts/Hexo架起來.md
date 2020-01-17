@@ -186,7 +186,7 @@ tags:                      # 自定義標籤
 $ hexo s
 $ hexo server
 ```
-
+c
 ## 10.測試 OK ，佈署上線
 ```
 $ hexo g -d
